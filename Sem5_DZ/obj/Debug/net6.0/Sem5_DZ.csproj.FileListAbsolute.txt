@@ -1,0 +1,15 @@
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem05\Sem5_DZ\obj\Debug\net6.0\Sem5_DZ.csproj.AssemblyReference.cache
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem05\Sem5_DZ\obj\Debug\net6.0\Sem5_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem05\Sem5_DZ\obj\Debug\net6.0\Sem5_DZ.AssemblyInfoInputs.cache
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem05\Sem5_DZ\obj\Debug\net6.0\Sem5_DZ.AssemblyInfo.cs
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem05\Sem5_DZ\obj\Debug\net6.0\Sem5_DZ.csproj.CoreCompileInputs.cache
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem05\Sem5_DZ\bin\Debug\net6.0\Sem5_DZ.exe
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem05\Sem5_DZ\bin\Debug\net6.0\Sem5_DZ.deps.json
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem05\Sem5_DZ\bin\Debug\net6.0\Sem5_DZ.runtimeconfig.json
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem05\Sem5_DZ\bin\Debug\net6.0\Sem5_DZ.dll
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem05\Sem5_DZ\bin\Debug\net6.0\Sem5_DZ.pdb
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem05\Sem5_DZ\obj\Debug\net6.0\Sem5_DZ.dll
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem05\Sem5_DZ\obj\Debug\net6.0\refint\Sem5_DZ.dll
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem05\Sem5_DZ\obj\Debug\net6.0\Sem5_DZ.pdb
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem05\Sem5_DZ\obj\Debug\net6.0\Sem5_DZ.genruntimeconfig.cache
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem05\Sem5_DZ\obj\Debug\net6.0\ref\Sem5_DZ.dll
